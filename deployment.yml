@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: footballprovtc
-        image: sontungbk85/demo-cicd:14
+        image: sontungbk85/demo-cicd:15
         ports:
         - containerPort: 5000
 ---
